@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TextEditor">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compiler">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLR">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisualStudioFacade">
+    <Position X="2.75" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAABAAAAAAAAAAACAAgAIAAAAAAgAAA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programmer">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
